@@ -1,1 +1,0 @@
-JSP和JSTL	JSP		JSP的使用		Scriptle脚本小程序		JSP的指令标签			include 静态包含			include 动态包含		JSP的四大域对象			page			request			session			application		EL 表达式的使用	JSTL		标签库的介绍及使用		常用标签			if 标签			choose、when和otherwise标签			forEach 标签			formatDate 标签
